@@ -1,0 +1,140 @@
+body {
+  background-image: url(https://raw.githubusercontent.com/Zackazt/MemeCreator/master/src/bg.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+.dadJoke {
+  width: 950px;
+  height: 400px;
+  margin-top: 30px;
+  margin-left: 100px;
+  border: 5px outset black;
+  padding: 10px;
+  background-image: url(https://i.kym-cdn.com/entries/icons/original/000/029/831/spongebobmeme.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.djHeader {
+  border: outset black;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+}
+
+.jokeBg {
+  border: outset black;
+  background-color: #ffffff;
+  border: 1px solid;
+  opacity: 0.77;
+  margin-top: 100px;
+  margin-bottom: 35px;
+}
+
+span {
+  display: block;
+  font-size: 30px;
+  text-align: center;
+  margin: 3px;
+}
+
+p {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  word-wrap: break-word;
+  line-height: 25px;
+  padding: 5px;
+}
+
+.btnjoke {
+  background-color: gold;
+  border: solid black;
+  border-radius: 20px;
+  padding: 3px;
+  cursor: pointer;
+  width: 200px;
+  position: center;
+}
+
+.cListParent {
+  width: 970px;
+  height: 450px;
+  margin-top: 10px;
+  margin-left: 100px;
+  background-image: url(https://www.wallpapertip.com/wmimgs/174-1744613_notebook-template-keynote.jpg);
+  background-repeat: auto;
+  background-size: auto;
+  text-align: center;
+  word-wrap: break-word;
+  border: 5px solid transparent;
+}
+.cListSon {
+  width: 950px;
+  height: auto;
+  margin-top: -5px;
+  margin-left: -5px;
+  padding: 10px;
+  background-image: url(https://www.wallpapertip.com/wmimgs/174-1744613_notebook-template-keynote.jpg);
+  background-repeat: auto;
+  background-size: auto;
+  text-align: center;
+  word-wrap: break-word;
+  border: 5px solid transparent;
+}
+
+input {
+  background-color: lemonchiffon;
+  border: solid black;
+  border-radius: 40px;
+  text-align: center;
+  width: 480px;
+  padding: 2px;
+  font-size: 15px;
+}
+
+.inputBg {
+  border: outset white;
+  background-image: url(https://i.kym-cdn.com/photos/images/facebook/000/303/023/293.jpg);
+  background-size: cover;
+  border: outset gray;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.btnadd {
+  background-color: yellowgreen;
+  border: solid black;
+  border-radius: 40px;
+  padding: 3px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 200px;
+}
+
+.btnclear {
+  background-color: orange;
+  border: solid black;
+  border-radius: 40px;
+  padding: 3px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 200px;
+}
+
+ul {
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: justify;
+  margin-top: 26px;
+  margin-left: 61px;
+  line-height: 23px;
+  word-wrap: break-word;
+}
